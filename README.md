@@ -1,5 +1,5 @@
 # B-Easy
-B-Easy is an android application developed for easy borrow of books from library through the app.
+B-Easy is an android application developed for borrowing books easily from library through the app.
 
 The project name B-Easy is an acronym of Borrow-Easy which is an android application developed over the existing library system of our college. It helps the users to access the required information without computers or the librarians which can save their time.
 
